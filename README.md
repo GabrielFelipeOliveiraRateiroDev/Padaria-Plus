@@ -1,7 +1,7 @@
 # Padaria Plus
 ---
 
-### ## Site criado para, divulgação de um livro, site completamente de estudo desenvolvido com as seginte linguagens | tecnologías:
+### Site criado para, divulgação de um livro, site completamente de estudo desenvolvido com as seginte linguagens | tecnologías:
 
 <br>
 <br>
@@ -36,7 +36,7 @@
 
 Usei alguns prints, mas considere acessar o link abaixo para a melhor experiência de usuário:
 
-[Padaria Plus]()
+[Padaria Plus](https://gabrielfelipeoliveirarateirodev.github.io/Padaria-Plus/)
 
 ---
 
