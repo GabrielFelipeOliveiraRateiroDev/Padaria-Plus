@@ -1,7 +1,7 @@
 # Padaria Plus
 ---
 
-### Site criado para, divulgação de um livro, site completamente de estudo desenvolvido com as seginte linguagens | tecnologías:
+### Site criado para, um Padaria, site completamente de estudo desenvolvido com as seginte linguagens | tecnologías:
 
 <br>
 <br>
