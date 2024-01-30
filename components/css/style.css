@@ -1,0 +1,130 @@
+:root {
+
+    --bg-color-body: #f4f0e5;
+    --color-link: #542f0c;
+    --br-color-h1: #de8e37;
+    --color-h2: #de8e37;
+    --color-white: #ffffff;
+
+}
+
+body {
+
+    margin: 0px;
+    background-color: var(--bg-color-body); 
+    font-family: Tahoma, Sans-serif, Helvetica;
+
+}
+
+.sesao {
+
+    max-width: 750px;
+    margin: 20px auto 0px auto;
+    text-align: center;
+    padding: 10px 0px;
+
+}
+
+.sesao .logo {
+
+    max-width: 130px;
+
+}
+
+.sesao .nav .menu {
+
+    display: flex;
+    list-style-type: none;
+    gap: 25px;
+    padding: 5px;
+    justify-content: center;
+    align-items: center;
+    font-size: 18px;
+
+}
+
+.menu .menu-item a {
+
+    border-radius: 4px;
+    padding: 10px 20px;
+    color: var(--color-link);
+
+}
+
+.sesao h1 {
+
+    padding-top: 50px;
+    border-top: 2px solid var(--br-color-h1);
+    font-size: 24px;
+
+}
+
+.sesao h2 {
+
+    color: var(--color-h2);
+    font-weight: normal;
+    font-size: 22px;
+
+}
+
+.sesao .cartas {
+
+    max-width: 750px;
+    border-radius: 4px;
+    box-shadow: 1.5px 2px 3px #ababab;
+
+}
+
+.sesao.sesao-destaque {
+
+    background: var(--color-h2);
+    color: var(--color-white);
+    display: grid;
+    justify-content: center;
+    gap: 5px;
+
+}
+
+.sesao.sesao-destaque h3 {
+
+    font-size: 24px;
+    
+}
+
+.sesao.sesao-destaque h4 {
+
+    font-size: 19px;
+
+}
+
+.sesao h3,
+.sesao h4 {
+
+    margin-bottom: 0px;
+
+} 
+
+.sesao.sesao-destaque p {
+
+    max-width: 600px;
+    place-self: center;
+    letter-spacing: 1px;
+    font-size: 17px;
+
+}
+
+.sesao.sesao-destaque .img-produtos {
+
+    max-width: 480px;
+    place-self: center;
+    border-radius: 4px;
+    box-shadow: 1.5px 2px 3px var(--color-link);
+
+}
+
+
+span {
+
+    font-weight: bold;
+
+}
